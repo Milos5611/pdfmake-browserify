@@ -1,0 +1,19 @@
+{
+  "name": "pdfmkae-browserify",
+  "version": "0.1.27",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Milos5611/pdfmake-browserify.git"
+  },
+  "author": "Milos Nikolic <milos.nikolic@prodyna.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Milos5611/pdfmake-browserify/issues"
+  },
+  "homepage": "https://github.com/Milos5611/pdfmake-browserify#readme"
+}
