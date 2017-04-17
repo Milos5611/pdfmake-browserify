@@ -7,7 +7,6 @@ npm install pdfmake-browserified-mainlevel
 
 ## Node Usage
 
-***Default Font: Roboto***
 ```javascript
 var pdf = require('pdfmake-browserified-mainlevel');
 var dd = { content: "This is a sample PDF printed with pdfMake" };
