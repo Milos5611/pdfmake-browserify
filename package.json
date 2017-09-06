@@ -1,6 +1,6 @@
 {
   "name": "pdfmake-browserify-mainlevel",
-  "version": "0.1.34",
+  "version": "0..1.35",
   "description": "PDFMake brofserify with pdfmake version 0.1.32",
   "main": "index.js",
   "scripts": {
