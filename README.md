@@ -1,4 +1,4 @@
-Browserified version of [pdfmake](http://pdfmake.org/) last 0.1.127 version
+Browserified version of [pdfmake](http://pdfmake.org/) last 0.1.32 version
 
 ## Installation
 ```console

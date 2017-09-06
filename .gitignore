@@ -5,7 +5,7 @@
 
 # User-specific stuff:
 .idea
-lib/_bundle.1.0.27.js
+lib/_bundle.0.1.27.js
 .idea/**/tasks.xml
 .idea/dictionaries
 
@@ -52,3 +52,4 @@ crashlytics-build.properties
 fabric.properties
 
 .idea/
+lib/_bundle.1.0.27.js
