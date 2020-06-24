@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/Milos5611/pdfmake-browserify/issues"
   },
-  "homepage": "https://github.com/Milos5611/pdfmake-browserify#readme"
+  "homepage": "https://github.com/Milos5611/pdfmake-browserify#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
 }
